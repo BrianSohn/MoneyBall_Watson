@@ -1,6 +1,6 @@
 # MoneyBall_Watson
 
-IEOR 4523 Final Project - Moneyball Watson 
+IEOR 4523 Final Project - Moneyball Watson: Predicting NBA game results using binary classification models
 
 Link to Kaggle Data: https://www.kaggle.com/nathanlauga/nba-games
 
