@@ -1,10 +1,10 @@
 # MoneyBall_Watson
 IEOR 4523 Final Project - Selected as top project of the semester
 
-#### Description
+## Description
 Moneyball Watson: Predicting NBA game results using binary classification models
 
-#### Data 
+## Data 
 Link to Kaggle Data: https://www.kaggle.com/nathanlauga/nba-games
 
 - 5 datafiles are from the link above: 
@@ -15,9 +15,9 @@ reg_2015.csv, elo_2015.csv
 
 - The datafile games_details.csv should be unzipped. 
 
-#### Feature Engineering, EDA, Modeling
+## Feature Engineering, EDA, Modeling
 - To run the models, make sure to run the notebooks in order, starting from 1.Data_Preprocessing_and_Feature_Engineering --> 2.Exploratory_Data_Analysis --> 3.Modeling.
 
-#### Final Presentation & Report 
+## Final Presentation & Report 
 - Moneyball Watson Final Report
 - Moneyball Watson Presentation Slides
